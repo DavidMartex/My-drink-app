@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Drink</string>
+    <string name="intro">Lets\'Help you have a drink today !</string>
+    <string name="drink_type">Choose a drink type</string>
+    <string-array name="drink_type">
+        <item>Soft drinks</item>
+        <item>Beers</item>
+        <item>Wine</item>
+        <item>Scotch</item>
+        <item>Dry Jin</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Sweet beverages</item>
+        <item>Alcoholic Drinks</item>
+        <item>Imported Wines</item>
+        <item>Whiskey and Aged Drinks</item>
+        <item>Highly fermented Alcohols</item>
+    </string-array>
+</resources>
